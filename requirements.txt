@@ -1,0 +1,9 @@
+# requirements.txt
+# Data & Utilities
+# PDF handling
+# Notebook/Demo
+# Core ML
+# RAG
+# Evaluation
+# Explainability
+
